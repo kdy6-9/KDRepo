@@ -1,0 +1,31 @@
+{
+  "META": {
+    "repoName": "KDRepo",
+    "repoIcon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/KDRepo%20icon.png"
+  },
+  "Tweaked": [
+    {
+      "name": "Instagram Rocket Cracked",
+      "version": "320.0 (T3.8.21)",
+      "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Instagram%20Rocket%20Cracked%20175x175.png",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.1-alpha/Instagram_320.0.0_Rocket_3.8.21_Cracked_LeTi.ipa",
+	  "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more.",
+      "category": "Tweaked Apps",
+	  "changelog": "- 315.1.0 (T3.8.20)\n–Bug fixes and performance improvements",
+      "bundleID": "com.burbn.instagram",
+      "appstore": "com.burbn.instagram"
+    }
+  ],
+  "Other": [
+    {
+      "name": "Scarlet",
+      "version": "1.0",
+      "icon": "https://usescarlet.com/icon.png",
+      "down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+      "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+      "bundleID": "com.DebianArch.Scarlet",
+      "category": "Alpha",
+      "changelog": "- Added fakesign support\n-Added back SSL install support."
+    }
+  ]
+}
