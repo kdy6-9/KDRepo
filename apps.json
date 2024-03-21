@@ -9,9 +9,9 @@
       "version": "322.0.1-3.8.24",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Instagram%20Rocket%20Cracked%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/InstaRocketCracked-322.0.1-3.8.24.ipa",
-	    "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more.",
+      "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more.",
       "category": "Tweaked Apps",
-	    "changelog": "- Bug fixes and performance improvements",
+      "changelog": "- Bug fixes and performance improvements",
       "dev": "John Doe",
       "bundleID": "com.burbn.instagram",
       "appstore": "com.burbn.instagram"
@@ -21,8 +21,8 @@
       "version": "454.0",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Facebook%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Facebook.Wolf-454.0.ipa",
-	    "changelog": "- Updated to 454.0",
-	    "description": "Facebook Wolf is a tweak that brings the most demanding features to the Facebook app to enhance the overall user experience when using the app.",
+      "changelog": "- Updated to 454.0",
+      "description": "Facebook Wolf is a tweak that brings the most demanding features to the Facebook app to enhance the overall user experience when using the app.",
       "category": "Tweaked Apps",
       "dev": "John Doe",
       "bundleID": "com.facebook.Facebook",
@@ -33,8 +33,8 @@
       "version": "446.0",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Messenger%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Messanger.LSN-446.0.ipa",
-	    "description": "Messanger LSN is a tweak that adds some features to Messanger such as blocking ads, blocking see message notifications, and block story view notifications.",
-	    "changelog": "- Updated to 446.0",
+      "description": "Messanger LSN is a tweak that adds some features to Messanger such as blocking ads, blocking see message notifications, and block story view notifications.",
+      "changelog": "- Updated to 446.0",
       "category": "Tweaked Apps",
       "dev": "John Doe",
       "bundleID": "com.facebook.Messenger",
@@ -50,8 +50,8 @@
       "changelog": "- Upload Custom Voice\n- Select URL host like fxtwitter or vxtwitter of tweet after copy.\n- remove unnecessary options.",
       "dev": "BandarHelal",
       "contact": [
-        "https://github.com/BandarHL",
-        "https://twitter.com/BandarHL"
+        "github": "https://github.com/BandarHL",
+        "twitter": "https://twitter.com/BandarHL"
       ],
       "bundleID": "com.atebits.Tweetie2",
       "appstore": "com.atebits.Tweetie2"
@@ -66,8 +66,8 @@
       "changelog": "- First release",
       "dev": "BandarHelal",
       "contact": [
-        "https://github.com/BandarHL",
-        "https://twitter.com/BandarHL"
+        "github": "https://github.com/BandarHL",
+        "twitter": "https://twitter.com/BandarHL"
       ],
       "bundleID": "com.zhiliaoapp.musically",
       "appstore": "com.zhiliaoapp.musically"
