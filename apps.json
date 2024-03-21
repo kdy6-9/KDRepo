@@ -9,9 +9,10 @@
       "version": "322.0.1-3.8.24",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Instagram%20Rocket%20Cracked%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/InstaRocketCracked-322.0.1-3.8.24.ipa",
-      "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more.",
+	    "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more.",
       "category": "Tweaked Apps",
-      "changelog": "– Bug fixes and performance improvements",
+	    "changelog": "- Bug fixes and performance improvements",
+      "dev": "John Doe",
       "bundleID": "com.burbn.instagram",
       "appstore": "com.burbn.instagram"
     },
@@ -20,9 +21,10 @@
       "version": "454.0",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Facebook%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Facebook.Wolf-454.0.ipa",
-      "changelog": "- Updated to 454.0",
-      "description": "Facebook Wolf is a tweak that brings the most demanding features to the Facebook app to enhance the overall user experience when using the app.",
+	    "changelog": "- Updated to 454.0",
+	    "description": "Facebook Wolf is a tweak that brings the most demanding features to the Facebook app to enhance the overall user experience when using the app.",
       "category": "Tweaked Apps",
+      "dev": "John Doe",
       "bundleID": "com.facebook.Facebook",
       "appstore": "com.facebook.Facebook"
     },
@@ -31,11 +33,42 @@
       "version": "446.0",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Messenger%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Messanger.LSN-446.0.ipa",
-      "description": "Messanger LSN is a tweak that adds some features to Messanger such as blocking ads, blocking see message notifications, and block story view notifications.",
-      "changelog":"- Updated to 446.0",
+	    "description": "Messanger LSN is a tweak that adds some features to Messanger such as blocking ads, blocking see message notifications, and block story view notifications.",
+	    "changelog": "- Updated to 446.0",
       "category": "Tweaked Apps",
+      "dev": "John Doe",
       "bundleID": "com.facebook.Messenger",
       "appstore": "com.facebook.Messenger"
+    },
+    {
+      "name": "BH Twitter",
+      "version": "4.3",
+      "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Twitter%20175x175.png",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.2/BH.Twitter-4.3.ipa",
+      "description": "BH Twitter is an awesome tweak for Twitter (Now formally known as X.) And it allows you to do things beyond what the original app allows you to. This includes features like:\n-> Download Videos (even if account private).\n-> No history feature.\n-> Undo tweet feature.\n-> And much more!",
+      "changelog": "- Upload Custom Voice\n- Select URL host like fxtwitter or vxtwitter of tweet after copy.\n- remove unnecessary options.",
+      "dev": "BandarHelal",
+      "contact": [
+        "https://github.com/BandarHL",
+        "https://twitter.com/BandarHL"
+      ],
+      "bundleID": "com.atebits.Tweetie2",
+      "appstore": "com.atebits.Tweetie2"
+    },
+    {
+      "name": "BH Tiktok",
+      "version": "0.0.1",
+      "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/TIktok%20175x175.png",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.2/BH.Tiktok-0.0.1.ipa",
+      "description": "BH Tiktok is an awesome tweak for Tiktok, And this tweak allows you to do many things that go beyond the orignial apps limitations. For example, things like:\n-> No Ads.\n-> Download Videos, Music, and profile image(s).\n-> Changing Regions\n-> And so much more!",
+      "changelog": "- First release",
+      "dev": "BandarHelal",
+      "contact": [
+        "https://github.com/BandarHL",
+        "https://twitter.com/BandarHL"
+      ],
+      "bundleID": "com.zhiliaoapp.musically",
+      "appstore": "com.zhiliaoapp.musically"
     }
   ],
   "Other": [
@@ -45,6 +78,7 @@
       "icon": "https://usescarlet.com/icon.png",
       "down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
       "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+      "dev": "DebianArch",
       "bundleID": "com.DebianArch.Scarlet",
       "category": "Alpha",
       "changelog": "- Added fakesign support\n-Added back SSL install support."
