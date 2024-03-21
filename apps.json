@@ -50,7 +50,7 @@
       "changelog": "- Upload Custom Voice\n- Select URL host like fxtwitter or vxtwitter of tweet after copy.\n- remove unnecessary options.",
       "dev": "BandarHelal",
       "contact": [
-        "github": "https://github.com/BandarHL",
+        "git": "https://github.com/BandarHL",
         "twitter": "https://twitter.com/BandarHL"
       ],
       "bundleID": "com.atebits.Tweetie2",
@@ -66,7 +66,7 @@
       "changelog": "- First release",
       "dev": "BandarHelal",
       "contact": [
-        "github": "https://github.com/BandarHL",
+        "git": "https://github.com/BandarHL",
         "twitter": "https://twitter.com/BandarHL"
       ],
       "bundleID": "com.zhiliaoapp.musically",
