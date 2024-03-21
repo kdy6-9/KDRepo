@@ -43,6 +43,7 @@
     {
       "name": "BH Twitter",
       "version": "4.3",
+      "category":"Tweaked Apps",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Twitter%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.2/BH.Twitter-4.3.ipa",
       "description": "BH Twitter is an awesome tweak for Twitter (Now formally known as X.) And it allows you to do things beyond what the original app allows you to. This includes features like:\n-> Download Videos (even if account private).\n-> No history feature.\n-> Undo tweet feature.\n-> And much more!",
@@ -58,6 +59,7 @@
     {
       "name": "BH Tiktok",
       "version": "0.0.1",
+      "category":"Tweaked Apps",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/TIktok%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.2/BH.Tiktok-0.0.1.ipa",
       "description": "BH Tiktok is an awesome tweak for Tiktok, And this tweak allows you to do many things that go beyond the orignial apps limitations. For example, things like:\n-> No Ads.\n-> Download Videos, Music, and profile image(s).\n-> Changing Regions\n-> And so much more!",
