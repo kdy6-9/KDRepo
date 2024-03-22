@@ -10,9 +10,18 @@
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Instagram%20Rocket%20Cracked%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/InstaRocketCracked-322.0.1-3.8.24.ipa",
       "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more.",
-      "category": "Tweaked Apps",
+      "category": "Tweaked Social Apps",
       "changelog": "- Bug fixes and performance improvements",
-      "dev": "John Doe",
+      "dev": "AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
+      "contact": {
+        "appdb": "https://appdb.to/app/cydia/1900000477",
+        "web": "https://www.darkwebuser.com/",
+        "telegram": "https://t.me/dpixel",
+        "telegram": "https://t.me/AppleTesters",
+        "twitter": "https://twitter.com/nowesr1",
+        "telegram": "https://t.me/zxcvbn_tweaked"
+
+      },
       "bundleID": "com.burbn.instagram",
       "appstore": "com.burbn.instagram"
     },
@@ -23,7 +32,7 @@
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Facebook.Wolf-454.0.ipa",
       "changelog": "- Updated to 454.0",
       "description": "Facebook Wolf is a tweak that brings the most demanding features to the Facebook app to enhance the overall user experience when using the app.",
-      "category": "Tweaked Apps",
+      "category": "Tweaked Social Apps",
       "dev": "John Doe",
       "bundleID": "com.facebook.Facebook",
       "appstore": "com.facebook.Facebook"
@@ -35,7 +44,7 @@
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Messanger.LSN-446.0.ipa",
       "description": "Messanger LSN is a tweak that adds some features to Messanger such as blocking ads, blocking see message notifications, and blocking story view notifications.",
       "changelog": "- Updated to 446.0",
-      "category": "Tweaked Apps",
+      "category": "Tweaked Social Apps",
       "dev": "John Doe",
       "bundleID": "com.facebook.Messenger",
       "appstore": "com.facebook.Messenger"
@@ -43,7 +52,7 @@
     {
       "name": "BH Twitter",
       "version": "4.3",
-      "category": "Tweaked Apps",
+      "category": "Tweaked Social Apps",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Twitter%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.2/BH.Twitter-4.3.ipa",
       "description": "BH Twitter is an awesome tweak for Twitter (Now formally known as X.) And it allows you to do things beyond what the original app allows you to. This includes features like:\n-> Download Videos (even if the account is private).\n-> No history feature.\n-> Undo tweet feature.\n-> And much more!",
@@ -59,7 +68,7 @@
     {
       "name": "BH Tiktok",
       "version": "0.0.1",
-      "category": "Tweaked Apps",
+      "category": "Tweaked Social Apps",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/TIktok%20175x175.png",
       "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.2/BH.Tiktok-0.0.1.ipa",
       "description": "BH Tiktok is an awesome tweak for Tiktok, And this tweak allows you to do many things that go beyond the original app's limitations. For example, things like:\n-> No Ads.\n-> Download Videos, Music, and profile image(s).\n-> Changing Regions\n-> And so much more!",
@@ -71,6 +80,22 @@
       },
       "bundleID": "com.zhiliaoapp.musically",
       "appstore": "com.zhiliaoapp.musically"
+    },
+    {
+      "name": "Watusi Whatsapp",
+      "version": "1.2.27",
+      "category": "Tweaked Social Apps",
+      "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/WhatsApp%20512x512.png",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.3-beta.1/Watusi.Whatsapp-1.2.27.ipa",
+      "description": "Watusi Whatsapp is a powerful tweak with many features for the Whatsapp Messanger App. This tweak provides many features that not only protect your privacy, but also gives you additional options and controls over whatsapp that is usually not allowed. Check out it's many features here:\n-> https://watusi.fouadraheb.com/#features",
+      "changelog": "- Updated to WA 24.5.75",
+      "dev": "FouadRaheb",
+      "contact": {
+        "web": "https://fouadraheb.com/contact",
+        "twitter": "https://twitter.com/FouadRaheb"
+      },
+      "bundleID": "com.fouadraheb.watusi",
+      "appstore": "net.whatsapp.WhatsApp"
     }
   ],
   "Other": [
