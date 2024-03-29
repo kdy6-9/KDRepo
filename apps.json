@@ -6,12 +6,12 @@
   "Tweaked": [
     {
       "name": "Instagram Rocket (Cracked)",
-      "version": "322.0.1-3.8.24",
+      "version": "324.0.4-3.8.24",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Instagram%20Rocket%20Cracked%20175x175.png",
-      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/InstaRocketCracked-322.0.1-3.8.24.ipa",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/InstaRocketCracked-324.0.4-3.8.24.ipa",
       "description": "Instagram Rocket is a mod for the Instagram app that adds a bunch of new features to the social media platform, such as the ability to save videos, images, and stories to your device, view stories anonymously, and much more!",
       "category": "Tweaked Social Apps",
-      "changelog": "- Bug fixes and performance improvements",
+      "changelog": "- Updated to 324.0.4-3.8.24",
       "dev": "Majd Alfhaily",
       "contact": {
         "web": "https://alfhaily.me/",
@@ -22,10 +22,10 @@
     },
 	{
       "name": "Facebook Wolf",
-      "version": "454.0",
+      "version": "456.0",
       "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Facebook%20175x175.png",
-      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Facebook.Wolf-454.0.ipa",
-      "changelog": "- Updated to 454.0",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.1/Facebook.Wolf-456.0.ipa",
+      "changelog": "- Updated to 456.0",
       "description": "Facebook Wolf is a tweak that brings the most demanding features to the Facebook app to enhance the overall user experience when using the app.",
       "category": "Tweaked Social Apps",
       "dev": "Michael Lema",
@@ -98,6 +98,21 @@
       },
       "bundleID": "com.fouadraheb.watusi",
       "appstore": "net.whatsapp.WhatsApp"
+    },
+    {
+      "name": "Insta Multi",
+      "version": "324.0.0",
+      "category": "Tweaked Social Apps",
+      "icon": "https://raw.githubusercontent.com/kdy6-9/KDRepo/main/Assets/Insta%20icon%20152x152.png",
+      "down": "https://github.com/kdy6-9/KDRepo/releases/download/v0.0.3/Insta.Multi-324.0.0.ipa",
+      "description": "An awesome tweak for Instagram that mixes almost all of the other Instagram tweaks into 1 application!",
+      "changelog": "- Settings can now be opened by holding on Instagram's settings icon\n- Rebased insta fork off Vlourme's fork (https://github.com/vlourme/BHInsta), adding more features\n - Changed some text",
+      "dev": "@asdfzxcvbn0 (zxcvbn)",
+      "contact": {
+        "web": "https://t.me/zxcvbn_tweaked"
+      },
+      "bundleID": "com.burbn.instagram",
+      "appstore": "com.burbn.instagram"
     }
   ],
   "Other": [
